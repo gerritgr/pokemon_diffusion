@@ -4,4 +4,4 @@ Repository for the practical projecto the [*Deep Generative Diffusion Models*](h
 
 We use the dataset from [pokemon-ga by Zhenye Na](https://github.com/Zhenye-Na/pokemon-gan).
 
-See `Practical_Project.ipynb' further information. 
+See `Practical_Project.ipynb` further information. 
