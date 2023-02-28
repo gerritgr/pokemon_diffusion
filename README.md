@@ -83,4 +83,4 @@ Pokemon 🐲
 * `color_distribution_normal_reference.png`: RGB value disribution of the trainings _after_ the forward process
 
 
-<img src="https://github.com/gerritgr/pokemon_diffusion/raw/main/forward_grid.png" alt="Dataset Summary" width="70%">
+<img src="https://github.com/gerritgr/pokemon_diffusion/raw/main/reverse_process_reference_epoch_000470.png" alt="Dataset Summary" width="90%">
