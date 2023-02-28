@@ -81,3 +81,6 @@ Pokemon 🐲
 * `forward_grid.png`: Imagegrid of an (incorrect) forward process. 
 * `reverse_process_reference_epoch_X.gif`: Examples of the reverse process of the reference implementation after X epochs
 * `color_distribution_normal_reference.png`: RGB value disribution of the trainings _after_ the forward process
+
+
+<img src="https://github.com/gerritgr/pokemon_diffusion/raw/main/dataset_summary.png" alt="Dataset Summary" width="20%">
